@@ -6,3 +6,6 @@ This file file serves as your book's preface, a great place to describe your boo
 Adding a section about DR
 Case 1
 Case 2
+
+Case 3
+Case 4
